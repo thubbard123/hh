@@ -6,7 +6,8 @@
   Destinations=""
   GlossaryTermConversion="marked"
   MasterPage="/Content/Resources/MasterPages/Other-Topics.flmsp"
-  ShowMadCapBacklink="true">
+  ShowMadCapBacklink="true"
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
